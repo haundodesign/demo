@@ -1,5 +1,7 @@
 # Hello, World!
 
-## I'm just a demo file to show how GitHub working!
+This is a message to the world!
 
-Some description text to describe the project.
+## This is just a subheader
+
+Description for the project has changed
